@@ -1,0 +1,23 @@
+{
+  "name": "prevent-default",
+  "version": "0.1.0",
+  "description": "A simple higher order function to pre-prevent default action of an event",
+  "main": "preventDefault.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungrydavid/preventDefault.git"
+  },
+  "keywords": [
+    "preventDefault",
+    "event"
+  ],
+  "author": "David Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungrydavid/preventDefault/issues"
+  },
+  "homepage": "https://github.com/hungrydavid/preventDefault#readme"
+}
