@@ -1,5 +1,5 @@
 {
-  "name": "prevent-default",
+  "name": "preventdefault",
   "version": "0.1.0",
   "description": "A simple higher order function to pre-prevent default action of an event",
   "main": "preventDefault.js",
