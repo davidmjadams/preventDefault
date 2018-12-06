@@ -3,7 +3,7 @@ function preventDefault(fn) {
 
   return function (ev) {
     ev.preventDefault();
-    fn.apply(fn, args);
+    return fn.apply(fn, args);
   }
 }
 
